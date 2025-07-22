@@ -44,15 +44,6 @@
 
 ---
 
-## 📦 Folder Structure
-email-reply-agent/
-  ├── icon.png # Extension icon
-  ├── manifest.json # Chrome extension config (v3)
-  ├── popup.html # Main UI (Tailwind styled)
-  ├── popup.js # Core logic to call OpenRouter API
-
----
-
 ## 🌐 API Used
 
 - **OpenRouter API**
